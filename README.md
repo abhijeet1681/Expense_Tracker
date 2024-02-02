@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](Expense.png "Desktop Demo")
+![Portfolio Desktop Demo](Expensess.png "Desktop Demo")
 
 ### Prerequisites
 
